@@ -12,7 +12,7 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{Petsamuel}}/djangoCRUD-zt?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Petsamuel/}}/djangoCRUD-zt?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Petsamuel}}/djangoCRUD-zt?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/{{Petsamuel}}/djangoCRUD-zt?color=56BEB8">
 </p>
