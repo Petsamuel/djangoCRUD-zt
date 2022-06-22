@@ -8,11 +8,11 @@
 <h1 align="center">djangoCRUD-zt Movie App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{Petsamuel}}/zuri?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{Petsamuel/djangoCRUD-zt}}/zuri?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{Petsamuel}}/zuri?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{Petsamuel/djangoCRUD-zt}}/zuri?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Petsamuel}}/zuri?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Petsamuel/djangoCRUD-zt}}/zuri?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/{{Petsamuel}}/zuri?color=56BEB8">
 </p>
@@ -42,9 +42,9 @@ The following tools were used in this project:
 
 ## :checkered_flag: snapshot ##
 
-- [list](./127.0.0.1_8000_blog_.png)
-- [post](./127.0.0.1_8000_blog_create_.png)
-- [delete](./127.0.0.1_8000_blog_delete_miracle-in-cell-no7-2013%20(1).png)
+- ![list](./127.0.0.1_8000_blog_.png)
+- ![post](./127.0.0.1_8000_blog_create_.png)
+- ![delete](./127.0.0.1_8000_blog_delete_miracle-in-cell-no7-2013%20(1).png)
 
 ## :white_check_mark: Requirements ##
 
@@ -72,8 +72,7 @@ $ python3 manage.py runserver
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Task by <a href="https://zuri.team/" target="_blank">{{Zuri}}</a>
- Made with :heart: task by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Peter Samuel}}</a>
+Task by <a href="https://zuri.team/" target="_blank">{{Zuri}}</a>Made with :heart: task by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Peter Samuel}}</a>
 
 &#xa0;
 
