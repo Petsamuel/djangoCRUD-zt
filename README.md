@@ -72,7 +72,7 @@ $ python3 manage.py runserver
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Task by <a href="https://zuri.team/" target="_blank">{{Zuri}}</a>Made with :heart: task by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Peter Samuel}}</a>
+Task by <a href="https://zuri.team/" target="_blank">{{Zuri}}</a>Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Peter Samuel}}</a>
 
 &#xa0;
 
